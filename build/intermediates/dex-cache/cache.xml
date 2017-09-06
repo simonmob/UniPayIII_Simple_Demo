@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\libs\Universal_SDK_1.00.057.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad48cdf55a6e8d740ebbdf447072e148360c4d18">
+        <dex dex="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Universal_SDK_1.00.057_7153d05a6ad54df25fd3345485981adc613f1f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16980dddec8fde385a1d870ce436004b00f34494">
+        <dex dex="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c981bbac16f0599dff044c3f00fdd25c0734a832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fe86c4f194aa76551f08a7c6bd28cf90db14">
+        <dex dex="D:\SingularMpos\DemoApps\UniPayIII_Simple_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81fd21ce27f403e5df4203d99a277cc916b08a64\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Aug 30 11:24:07 EAT 2017
+1.base=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\idt_unimagcfg_default.xml
+1.file=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.file=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\res\\resources-debug.ap_

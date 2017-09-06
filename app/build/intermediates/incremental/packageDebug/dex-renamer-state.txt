@@ -1,0 +1,7 @@
+#Mon Sep 04 16:05:39 EAT 2017
+base.0=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c981bbac16f0599dff044c3f00fdd25c0734a832
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81fd21ce27f403e5df4203d99a277cc916b08a64\\classes.dex
+base.1=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81fd21ce27f403e5df4203d99a277cc916b08a64
+file.0=D\:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c981bbac16f0599dff044c3f00fdd25c0734a832\\classes.dex

@@ -1,0 +1,108 @@
+[
+    {
+        "outputFile": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endLine": 10,
+                        "endColumn": 19,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 59,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 52,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "D:\\SingularMpos\\DemoApps\\UniPayIII_Simple_Demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 658
+                    }
+                }
+            }
+        ]
+    }
+]
